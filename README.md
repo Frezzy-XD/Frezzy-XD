@@ -22,7 +22,7 @@
 
 ## ```📮 ABOUT ME```
 ```bash
-- 👋 Hello, I’m @KrizynOfc
+- 👋 Hello, I’m @Frezzy-XD
 - 👀 I’m interested in the media
 - 🌱 I'm just a beginner in this field
 - 💞️ I don't care what people say about me, I just want to give this a try
