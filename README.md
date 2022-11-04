@@ -33,7 +33,7 @@
 <p align="center">
 <a href="https://instagram.com/kahfi_maker"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 <a href="https://wa.me/6285380166282"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw"><img src="https://img.shields.io/badge/YOUTUBE Krizyn-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/hokenbeusz" /><br>
+<a href="https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw"><img src="https://img.shields.io/badge/YOUTUBE Maxxy Botz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/hokenbeusz" /><br>
 <a href="https://www.tiktok.com/@maxxy_0t"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
 </p>
 
