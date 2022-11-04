@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Frezzy-XD"><img title="Author" src="https://img.shields.io/badge/Krizyn-Ofc-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Frezzy-XD"><img title="Author" src="https://img.shields.io/badge/Frezzy-XD-blue.svg?style=for-the-badge&logo=github"></a>
  </p>
  <h4 align="center">
   <a
